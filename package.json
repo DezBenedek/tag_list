@@ -1,0 +1,7 @@
+{
+    "name": "nellytags",
+    "main": "src/wrapper.js",
+    "scripts": {
+        "start": "bun run src/wrapper.js"
+    }
+}
